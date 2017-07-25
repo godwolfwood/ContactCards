@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 960px;
+    height: 100%;
+}
+form{
+    width: 30%;
+    text-align: right;
+    margin-top: 20px;
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: top;
+}
+form label{
+    margin-left: 15%;
+    text-align: right;
+}
+form textarea{
+    margin: 0px 20px;
+    box-sizing: border-box;
+    width:80%;
+    height: 50px;
+}
+form p{
+    text-align: left;
+    margin-left: 40px;
+}
+.ContactCards{
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+}
+.Cards{
+    margin-left: 10%;
+    margin-top: 20px;
+    text-align: center;
+    border: 5px solid black;
+    height: 100px;
+    width: 300px;
+    padding:20px;
+    box-sizing: border-box;
+}
